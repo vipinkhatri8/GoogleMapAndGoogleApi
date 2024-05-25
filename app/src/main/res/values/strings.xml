@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleMapAndGoogleApi</string>
+    <string name="api_key">add google api</string>
+</resources>
